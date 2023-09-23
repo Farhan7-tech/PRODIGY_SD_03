@@ -1,5 +1,5 @@
 # PRODIGY_SD_03
-Contact Management Application in Java
+ # Contact Management Application (in Java).
 This Java program allows users to store and manage contact information. Users can add, view, edit, and delete contacts, and the program provides options for storing contacts either in memory or in a file for persistent storage.
 
 Menu Options
