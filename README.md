@@ -28,4 +28,4 @@ Select "Delete Contact" to remove a contact from the list.
 
 Periodically, use "Save Contacts" to store the contacts in a file for persistence.
 
-You can also use "Load Contacts" to load previously saved contacts.
+
